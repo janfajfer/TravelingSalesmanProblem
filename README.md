@@ -1,2 +1,2 @@
 # Traveling Salesman Problem
-Traveling Salesman Problem solved using the gurobi solver and lazy constraints.
+Traveling Salesman Problem for shredded images solved using the gurobi solver and lazy constraints.
